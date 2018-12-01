@@ -6,11 +6,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="ROJO1">@color/ROJO1</item>
-        <item name="ROJO2">@color/ROJO2</item>
-        <item name="AZUL1">@color/AZUL1</item>
-        <item name="AZUL2">@color/AZUL2</item>
-        <item name="BANCO1">@color/BLANCO1</item>
+
     </style>
 
 </resources>
