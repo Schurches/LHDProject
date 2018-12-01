@@ -1,13 +1,15 @@
-package com.company.dsii.lhdproject;
+package com.company.dsii.lhdproject.Handling;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class PlayActivity extends AppCompatActivity {
+import com.company.dsii.lhdproject.R;
+
+public class HelpActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_play);
+        setContentView(R.layout.activity_help_view);
     }
 }
