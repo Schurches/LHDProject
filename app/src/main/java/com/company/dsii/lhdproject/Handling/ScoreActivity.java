@@ -1,13 +1,15 @@
-package com.company.dsii.lhdproject;
+package com.company.dsii.lhdproject.Handling;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class HelpActivity extends AppCompatActivity {
+import com.company.dsii.lhdproject.R;
+
+public class ScoreActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_help_view);
+        setContentView(R.layout.activity_score);
     }
 }
