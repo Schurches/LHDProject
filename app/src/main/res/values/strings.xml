@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LHDProject</string>
+    <string name="Texto_Nieve">El Copo de nieve es tu juguete favorito, recolecciona lo mas que puedas para obtener mas puntos!</string>
+    <string name="Texto_Personaje">Este eres tu, muevete por toda la pantalla de manera horizontal para coger las bolas de nieve antes de que caigan al suelo</string>
+    <string name="Texto_Mov">Toca la pantalla para alcanzar los copos de nieve, pero cuidado! algunos pueden ser peligrosos</string>
+    <string name="Texto_CopoPlata">OJO! este copo puede ser muy brillante y llamativo pero es muy peligroso, un toque y puedes perder la partida</string>
+    <string name="Texto_Regalo">Un regalo para ti esta Navidad!!, coge el regalo y obtendras puntos extras!</string>
 </resources>
